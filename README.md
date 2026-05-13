@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        HEADER BANNER                          -->
+<!--                            HEADER BANNER                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=140&section=header&text=Jay%20Chhaya&fontSize=54&fontColor=0D1117&animation=fadeIn&fontAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=160&section=header&text=Jay%20Chhaya&fontSize=60&fontColor=FFFFFF&fontAlignY=62&animation=twinkling&stroke=FFFFFF&strokeWidth=0.5" width="100%"/>
 
 <br/>
 
@@ -23,8 +23,6 @@
 </div>
 
 <br/>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                         ABOUT ME                              -->
@@ -45,14 +43,13 @@ jay = {
 
 <br/>
 
--  &nbsp;**I design systems, not just code** — State machines and service boundaries before I touch a keyboard. If the architecture is wrong, the code doesn't matter.
+- &nbsp;**Architect first, coder second** — I think in services, pipelines, and state machines before I write a single line. Every system I build is designed to scale past the MVP.
 
--  &nbsp;**AI is my infrastructure, not my feature** — I build the pipelines that make AI actually work in production. Queues, retries, parallelism, storage. The boring layer that makes the smart layer possible.
+- &nbsp;**AI Orchestration is my edge** — I wire together inference APIs, async task queues, and voice models into cohesive production pipelines. Not just prompting — *engineering* around AI.
 
--  &nbsp;**18, solo, shipping** — Tarang is a production AI dubbing studio. Real voice cloning, real async workers, real infra. Not a side project — a product.
+- &nbsp;**Shipping real products at 18** — Tarang is a full-stack AI dubbing studio with voice cloning, Celery workers, Cloudflare R2, and a FastAPI backend — not a tutorial project.
 
--  &nbsp;**I live in the parts nobody talks about** — CORS, webhooks, auth flows, job state machines. The stuff that breaks at 2AM. That's my domain.
-
+- &nbsp;**Obsessed with the unsexy parts** — webhooks, retry logic, job state machines, CORS, auth flows. The infrastructure nobody sees but everybody depends on.
 <br/>
 
 ---
@@ -70,13 +67,13 @@ jay = {
 **— Languages —**
 
 <p>
-  <img src="https://img.shields.io/badge/Java-1C1C1C?style=for-the-badge&logo=openjdk&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Java-1C1C1C?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Python-1C1C1C?style=for-the-badge&logo=python&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Python-1C1C1C?style=for-the-badge&logo=python&logoColor=FFD43B" />
   &nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-1C1C1C?style=for-the-badge&logo=javascript&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/JavaScript-1C1C1C?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   &nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-1C1C1C?style=for-the-badge&logo=typescript&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/TypeScript-1C1C1C?style=for-the-badge&logo=typescript&logoColor=3178C6" />
 </p>
 
 <br/>
@@ -84,9 +81,9 @@ jay = {
 **— Backend Frameworks —**
 
 <p>
-  <img src="https://img.shields.io/badge/Spring_Boot-1C1C1C?style=for-the-badge&logo=springboot&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Spring_Boot-1C1C1C?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
   &nbsp;
-  <img src="https://img.shields.io/badge/FastAPI-1C1C1C?style=for-the-badge&logo=fastapi&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/FastAPI-1C1C1C?style=for-the-badge&logo=fastapi&logoColor=009688" />
 </p>
 
 <br/>
@@ -94,13 +91,13 @@ jay = {
 **— Frontend & Design —**
 
 <p>
-  <img src="https://img.shields.io/badge/React-1C1C1C?style=for-the-badge&logo=react&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/React-1C1C1C?style=for-the-badge&logo=react&logoColor=61DAFB" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Tailwind_CSS-1C1C1C?style=for-the-badge&logo=tailwindcss&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-1C1C1C?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Figma-1C1C1C?style=for-the-badge&logo=figma&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Figma-1C1C1C?style=for-the-badge&logo=figma&logoColor=F24E1E" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Next.js-1C1C1C?style=for-the-badge&logo=nextdotjs&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Next.js-1C1C1C?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
 </p>
 
 <br/>
@@ -108,9 +105,9 @@ jay = {
 **— Databases & Caching —**
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-1C1C1C?style=for-the-badge&logo=postgresql&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1C1C1C?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Redis-1C1C1C?style=for-the-badge&logo=redis&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Redis-1C1C1C?style=for-the-badge&logo=redis&logoColor=DC382D" />
 </p>
 
 <br/>
@@ -118,13 +115,13 @@ jay = {
 **— DevOps & Infrastructure —**
 
 <p>
-  <img src="https://img.shields.io/badge/Docker-1C1C1C?style=for-the-badge&logo=docker&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Docker-1C1C1C?style=for-the-badge&logo=docker&logoColor=2496ED" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Railway-1C1C1C?style=for-the-badge&logo=railway&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Railway-1C1C1C?style=for-the-badge&logo=railway&logoColor=FFFFFF" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Cloudflare_R2-1C1C1C?style=for-the-badge&logo=cloudflare&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Cloudflare_R2-1C1C1C?style=for-the-badge&logo=cloudflare&logoColor=F48120" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Vercel-1C1C1C?style=for-the-badge&logo=vercel&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Vercel-1C1C1C?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
 </p>
 
 <br/>
@@ -132,13 +129,13 @@ jay = {
 **— Tools —**
 
 <p>
-  <img src="https://img.shields.io/badge/Postman-1C1C1C?style=for-the-badge&logo=postman&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Postman-1C1C1C?style=for-the-badge&logo=postman&logoColor=FF6C37" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Git-1C1C1C?style=for-the-badge&logo=git&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Git-1C1C1C?style=for-the-badge&logo=git&logoColor=F05032" />
   &nbsp;
-  <img src="https://img.shields.io/badge/SQLAlchemy-1C1C1C?style=for-the-badge&logo=sqlalchemy&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-1C1C1C?style=for-the-badge&logo=sqlalchemy&logoColor=D71F00" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Clerk-1C1C1C?style=for-the-badge&logo=clerk&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Clerk-1C1C1C?style=for-the-badge&logo=clerk&logoColor=6C47FF" />
 </p>
 
 </div>
@@ -159,11 +156,11 @@ jay = {
 
 <!-- Overall Stats + Top Languages side by side -->
 <a href="https://github.com/chhaya-jay-56">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=chhaya-jay-56&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&border_color=30363D&border_radius=10&rank_icon=github&include_all_commits=true&count_private=true" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=chhaya-jay-56&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&include_all_commits=true&count_private=true" />
 </a>
 &nbsp;
 <a href="https://github.com/chhaya-jay-56">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhaya-jay-56&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&border_color=30363D&border_radius=10&langs_count=7" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhaya-jay-56&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=7" />
 </a>
 
 <br/><br/>
@@ -234,11 +231,11 @@ jay = {
 <div align="center">
 
 <a href="https://www.linkedin.com/in/jaychhaya56/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=1C1C1C" />
+  <img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:jaychhaya3489@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/jaychhaya3489@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF&labelColor=1C1C1C" />
+  <img src="https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 
 <br/><br/>
@@ -250,12 +247,6 @@ jay = {
 </div>
 
 <br/>
-
----
-</div>
-
-<br/>
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                       FOOTER BANNER                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
