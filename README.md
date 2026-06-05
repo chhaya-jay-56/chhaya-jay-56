@@ -18,7 +18,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=chhaya-jay-56&style=flat-square&color=58A6FF&label=PROFILE+VIEWS&labelColor=1C1C1C)](https://github.com/chhaya-jay-56)&nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/chhaya-jay-56?style=flat-square&color=58A6FF&label=FOLLOWERS&labelColor=1C1C1C&logo=github&logoColor=58A6FF)](https://github.com/chhaya-jay-56)&nbsp;
-[![Open to Collaborate](https://img.shields.io/badge/Open%20to-Collaborate-58A6FF?style=flat-square&labelColor=1C1C1C)](mailto:jaychhaya@example.com)
+[![Open to Collaborate](https://img.shields.io/badge/Open%20to-Collaborate-58A6FF?style=flat-square&labelColor=1C1C1C)](mailto:jaychhaya3489@gmail.com)
 
 </div>
 
