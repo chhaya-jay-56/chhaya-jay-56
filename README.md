@@ -36,7 +36,7 @@ jay = {
     "location"  : "Rajkot, Gujarat, IN",
     "education" : "Computer Engineering @ GTU",
     "focus"     : ["Backend Systems", "AI Pipelines", "Distributed Architecture"],
-    "currently" : "Building Tarang — an end-to-end AI dubbing studio",
+    "currently" : "Building Tarang",
     "philosophy": "Design the system first. Code is just the translation.",
 }
 ```
@@ -45,9 +45,9 @@ jay = {
 
 - &nbsp;**Architect first, coder second** — I think in services, pipelines, and state machines before I write a single line. Every system I build is designed to scale past the MVP.
 
-- &nbsp;**AI Orchestration is my edge** — I wire together inference APIs, async task queues, and voice models into cohesive production pipelines. Not just prompting — *engineering* around AI.
+- &nbsp;**AI Orchestration is my edge** — I wire together inference APIs, async task queues, and voice models into cohesive production pipelines. Not just prompting *engineering* around AI.
 
-- &nbsp;**Shipping real products at 18** — Tarang is a full-stack AI dubbing studio with voice cloning, Celery workers, Cloudflare R2, and a FastAPI backend — not a tutorial project.
+- &nbsp;**Shipping real products at 18** — Tarang is a full-stack AI studio with voice cloning, Celery workers, Cloudflare R2, and a FastAPI backend , not a tutorial project.
 
 - &nbsp;**Obsessed with the unsexy parts** — webhooks, retry logic, job state machines, CORS, auth flows. The infrastructure nobody sees but everybody depends on.
 <br/>
@@ -176,43 +176,6 @@ jay = {
 <a href="https://github.com/chhaya-jay-56">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=chhaya-jay-56&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF20&hide_border=true&radius=6&custom_title=Contribution+Activity" />
 </a>
-
-</div>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     ENGINEERING MINDSET                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## `./principles.md`
-
-<br/>
-
-<div align="center">
-
-<table border="0" cellspacing="0" cellpadding="0" width="92%">
-  <tr>
-    <td align="center" width="25%" style="padding: 12px;">
-      <img src="https://img.shields.io/badge/Layers%2C_Not_Logic_Dumps-58A6FF?style=for-the-badge&logoColor=0D1117" /><br/><br/>
-      <sub>Controllers route. Services decide. Repositories store. Nothing crosses the line.</sub>
-    </td>
-    <td align="center" width="25%" style="padding: 12px;">
-      <img src="https://img.shields.io/badge/Workers_Over_Waiters-4FC3F7?style=for-the-badge&logoColor=0D1117" /><br/><br/>
-      <sub>If it blocks the request cycle, it belongs in a queue — not a handler.</sub>
-    </td>
-    <td align="center" width="25%" style="padding: 12px;">
-      <img src="https://img.shields.io/badge/Fail_by_Design-338BFF?style=for-the-badge&logoColor=0D1117" /><br/><br/>
-      <sub>Error handling, retries, and shutdown aren't edge cases. They're the spec.</sub>
-    </td>
-    <td align="center" width="25%" style="padding: 12px;">
-      <img src="https://img.shields.io/badge/Standards%2C_Not_Memory-93C5FD?style=for-the-badge&logoColor=0D1117" /><br/><br/>
-      <sub>Decisions are documented and enforced. Good code shouldn't rely on tribal knowledge.</sub>
-    </td>
-  </tr>
-</table>
 
 </div>
 
