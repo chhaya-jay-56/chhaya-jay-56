@@ -43,13 +43,13 @@ jay = {
 
 <br/>
 
-- &nbsp;**Architect first, coder second** — I think in services, pipelines, and state machines before I write a single line. Every system I build is designed to scale past the MVP.
+- &nbsp;**Architect first, coder second** : I think in services, pipelines, and state machines before I write a single line. Every system I build is designed to scale past the MVP.
 
-- &nbsp;**AI Orchestration is my edge** — I wire together inference APIs, async task queues, and voice models into cohesive production pipelines. Not just prompting *engineering* around AI.
+- &nbsp;**AI Orchestration is my edge** : I wire together inference APIs, async task queues, and voice models into cohesive production pipelines. Not just prompting *engineering* around AI.
 
-- &nbsp;**Shipping real products at 18** — Tarang is a full-stack AI studio with voice cloning, Celery workers, Cloudflare R2, and a FastAPI backend , not a tutorial project.
+- &nbsp;**Shipping real products at 18** : Tarang is a full-stack AI studio with voice cloning, Celery workers, Cloudflare R2, and a FastAPI backend , not a tutorial project.
 
-- &nbsp;**Obsessed with the unsexy parts** — webhooks, retry logic, job state machines, CORS, auth flows. The infrastructure nobody sees but everybody depends on.
+- &nbsp;**Obsessed with the unsexy parts** : webhooks, retry logic, job state machines, CORS, auth flows. The infrastructure nobody sees but everybody depends on.
 <br/>
 
 ---
