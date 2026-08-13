@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=Backend+Engineer;AI+Orchestrator;Solutions+Architect;Shipping+production+AI+at+18.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=Backend+Engineer;AI+Orchestrator;GPU+Infra+Ethusiastic;Shipping+production+AI+at+18.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -153,22 +153,6 @@ jay = {
 <br/>
 
 <div align="center">
-
-<!-- Overall Stats + Top Languages side by side -->
-<a href="https://github.com/chhaya-jay-56">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=chhaya-jay-56&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&include_all_commits=true&count_private=true" />
-</a>
-&nbsp;
-<a href="https://github.com/chhaya-jay-56">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhaya-jay-56&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=7" />
-</a>
-
-<br/><br/>
-
-<!-- Streak Stats full-width -->
-<a href="https://github.com/chhaya-jay-56">
-  <img src="https://streak-stats.demolab.com/?user=chhaya-jay-56&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=C9D1D9&sideLabels=8B949E&sideNums=C9D1D9&dates=8B949E&border_radius=10" />
-</a>
 
 <br/><br/>
 
